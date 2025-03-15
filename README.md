@@ -1,5 +1,5 @@
 # Counter-Movement-Jump
-Biomechanical Analysis of counter movement jump with Load
+## Biomechanical Analysis of counter movement jump with Load
 
 Research Question: To quantify the effect that barbell load has on kinetic variables during counter movement jump. 
 
